@@ -2,8 +2,4 @@
 /public/build/
 
 .DS_Store
-.DS_Store
-node_modules
-/.svelte
-/build
-/functions
+
